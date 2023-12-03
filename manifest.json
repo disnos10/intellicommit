@@ -1,0 +1,9 @@
+{
+ 	"manifest_version": 3,
+ 	"name": "IntelliCommit Chrome",
+ 	"version": "0.1",
+	"description": "IntelliCommit browser extension for Chromium-based browsers. Easily create commit messages with AI.",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
