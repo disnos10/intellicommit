@@ -17,7 +17,7 @@ Instead of using traditional README changelogs that forced you to type it out on
 ## Navigating
 ### Branches
 There are multiple branches setup with different code.
-- `main` - README files, licenses, security, policies, and more.
+- `readme` - README files, licenses, security, policies, and more.
 - `chrome-ext` - Source code for the chrome extension of IntelliCommit.
 - `www` - Cloudflare Pages production branch for IntelliCommit.
 - `www-beta` - gh-pages beta production branch for IntelliCommit.
@@ -26,8 +26,11 @@ There are multiple branches setup with different code.
 
 ## Ending
 (c) 2023 dinoisfun. All rights reserved.<br>Open source rules all!
-### Contributors/Open Source Projects
+### Contributors/Other Projects
 <b>Contributors</b><br>
 disnos9<br>
 
-<b>Open Source Projects Used</b><br>
+<b>Projects Used</b><br>
+Cloudflare DDOS Protection<br>
+Cloudflare Pages<br>
+Cloudflare AI<br>
